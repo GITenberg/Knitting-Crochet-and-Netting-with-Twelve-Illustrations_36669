@@ -1,0 +1,33 @@
+_repo: Knitting-Crochet-and-Netting-with-Twelve-Illustrations_36669
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Riego de la Branchardière, Eléonore
+    aliases:
+    - Riego de la Branchardière, Mlle.
+    - La Branchardière, Eléonore Riego de
+    - Branchardière, Eléonore Riego de la
+    - De la Branchardière, Eléonore Riego
+    - Riego de la Branchardiere, Eleonore
+    gutenberg_agent_id: '33346'
+    url: http://www.gutenberg.org/2009/agents/33346
+description: ''
+gutenberg_bookshelf: Crafts
+gutenberg_issued: '2011-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcsh 'Netting -- Patterns'
+- !lcsh 'Crocheting -- Patterns'
+- !lcsh 'Knitting -- Patterns'
+title: Knitting, Crochet, and Netting, with Twelve Illustrations
+url: http://www.gutenberg.org/ebooks/36669
